@@ -1,0 +1,9 @@
+.btnDesign {
+  height: 32px;
+  width: 110px;
+}
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
